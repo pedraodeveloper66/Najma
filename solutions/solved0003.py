@@ -1,4 +1,5 @@
 """
+Create a program that reads two numbers and shows the sum between them
 """
 
 n1 = int(input('Digite um valor: '))
